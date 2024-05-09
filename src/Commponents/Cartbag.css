@@ -1,0 +1,7 @@
+.colored-toast.swal2-icon-success {
+    background-color: #a5dc86 !important;
+  }
+  body.swal2-shown > [aria-hidden='true'] {
+    transition: 0.1s filter;
+    filter: blur(3px);
+  }

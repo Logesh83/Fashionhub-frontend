@@ -1,0 +1,20 @@
+.im1{
+    width: 100%;
+
+}
+.cards{
+    position: relative;
+    transition:transform 0.3s;
+}
+.cards:hover{
+    transform: scale(1.1);
+    opacity: 1;
+}
+.design{
+    transition:transform 0.3s;
+}
+.design:hover{
+    transform: scale(1.1);
+    opacity: 1;
+}
+
